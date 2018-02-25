@@ -10,3 +10,4 @@ code --install-extension ms-vscode.powershell
 code --install-extension misogi.ruby-rubocop
 code --install-extension donjayamanne.githistory
 code --install-extension eamodio.gitlens
+code --install-extension burtlo.inspec

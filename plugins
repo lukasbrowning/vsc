@@ -1,0 +1,12 @@
+code --install-extension ms-vscode.azure-account
+code --install-extension ms-vscode.azurecli
+code --install-extension msazurermtools.azurerm-vscode-tools
+code --install-extension Pendrica.chef
+code --install-extension PeterJausovec.vscode-docker
+code --install-extension Equinusocio.vsc-material-theme
+code --install-extension rebornix.ruby
+code --install-extension hoovercj.ruby-linter
+code --install-extension ms-vscode.powershell
+code --install-extension misogi.ruby-rubocop
+code --install-extension donjayamanne.githistory
+code --install-extension eamodio.gitlens
